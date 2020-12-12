@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "watch": true,
+        "outDir": "./output",
+        "resolveJsonModule": true,
+    },
+    "files": [
+        "index.ts"
+    ]
+}
