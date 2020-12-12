@@ -4,12 +4,10 @@ Simple DiscordJS bot to add a role to every member that write more than N messag
 
 ## Config
 
-```json
-{
-	"discordToken": "Discord bot token", // Token of the bot
-	"prefix": "?" // Prefix for commands
-}
-```
+| Entry        | Value                               |
+| ------------ | ----------------------------------- |
+| discordToken | Token of your discord bot           |
+| prefix       | Prefix for each commands of the bot |
 
 ## Usage
 
